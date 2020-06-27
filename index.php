@@ -16,7 +16,7 @@
                     <a href="">JSON</a>
                     <a href="application/wordpress/index.php">Wordpress</a>
                     <a href="application/drupal/index.php">Drupal</a>
-                    <a href="">Joomla</a>
+                    <a href="application/joomla/index.php">Joomla</a>
                     <a href="">Asp.net</a>
                     <a href="jquery.php">JQuery</a>
                     <a href="mysql.php">MySQL</a>
