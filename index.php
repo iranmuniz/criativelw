@@ -11,16 +11,16 @@
 
             <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
-                    <a href="">Javascript</a>
+                    <a style="cursor:pointer;" onclick="bottom()">Javascript</a>
                     <a href="form.php">PHP</a>
                     <a href="">JSON</a>
                     <a href="application/wordpress/index.php">Wordpress</a>
                     <a href="application/drupal/index.php">Drupal</a>
                     <a href="application/joomla/index.php">Joomla</a>
-                    <a href="">Asp.net</a>
+                    <a href="home.asp">Asp.net</a>
                     <a href="jquery.php">JQuery</a>
                     <a href="mysql.php">MySQL</a>
-                    <a href="mysql.php">PostGreSQL</a>
+                    <a href="mysql.php">PostgreSQL</a>
                     <a href="">Java</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
@@ -28,5 +28,6 @@
             <?php require_once("src/details.php"); ?>
         </div>
     </main>
+    <script src="public/js/script.js"></script>
 </body>
 </html>
