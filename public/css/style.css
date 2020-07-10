@@ -47,6 +47,11 @@ a:hover {
     color: red;
 }
 
+p {
+    font-size: 14px;
+    line-height: 2px;
+}
+
 .presents {
     flex-direction: row;
     font-style: italic;

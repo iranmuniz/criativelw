@@ -12,7 +12,8 @@
             <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
                     <a style="cursor:pointer;" onclick="bottom()">Javascript</a>
-                    <a href="form.php">PHP</a>
+                    <a href="https://www.lwsite.com.br/trials/sign_up" target="_blank">Criador de Sites</a>
+                    <a href="home.php">PHP</a>
                     <a href="">JSON</a>
                     <a href="application/wordpress/index.php">Wordpress</a>
                     <a href="application/drupal/index.php">Drupal</a>
@@ -22,6 +23,7 @@
                     <a href="mysql.php">MySQL</a>
                     <a href="mysql.php">PostgreSQL</a>
                     <a href="">Java</a>
+                    <a href="mail.html">Formulário HTML</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
 

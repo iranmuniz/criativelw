@@ -1,24 +1,31 @@
-<?php 
-if (isset($_POST['txtdest']))
+<?php
+If (isset($_POST['txtdest']))
 {
-	$destino = $_POST['txtdest'];
-	$assunto = $_POST['txtass'];
-	$mensagem = $_POST['txtmsg'];
-	if (PATH_SEPARATOR ==":") {
-		$quebra = "\r\n";
-	} else {
-		$quebra = "\n";
-	}
-	$headers = "MIME-Version: 1.1".$quebra;
-	$headers .= "Content-type: text/plain; charset=iso-8859-1".$quebra;
-	$headers .= "From: mail@chocolate.pessoal.ws".$quebra; //E-mail do remetente
-	$headers .= "Return-Path: mail@chocolate.pessoal.ws".$quebra; //E-mail do remetente
-	mail($destino, $assunto, $mensagem, $headers, "-r". "mail@chocolate.pessoal.ws");
-	print "Mensagem enviada com sucesso!";
-}else{ ?>
-   <html>
+    require_once('class.phpmailer.php');
+    $destino = $_POST['txtdest'];
+    $assunto = $_POST['txtass'];
+    $mensagem = $_POST['txtmsg'];
+    $mailer = new PHPMailer();
+    $mailer->IsSMTP();
+    $mailer->SMTPDebug = 1;
+    $mailer->Port = 587; //Indica a porta de conexão para a saída de e-mails
+    $mailer->Host = 'smtp.chocolate.pessoal.ws'; //smtp.dominio.com.br
+    $mailer->SMTPAuth = true; //define se haverá ou não autenticação no SMTP
+    $mailer->Username = 'mail@chocolate.pessoal.ws'; //Informe o e-mai o completo
+    $mailer->Password = '1234'; //Senha da caixa postal
+    $mailer->FromName = $assunto; //Nome que será exibido para o destinatário
+    $mailer->From = 'mail@chocolate.pessoal.ws'; //Obrigatório ser a mesma caixa postal indicada em "username"
+    $mailer->AddAddress($destino,'NomeDestinatário'); //Destinatários
+    $mailer->Subject = $assunto;
+    $mailer->Body = $mensagem;
+    $mailer->Send();
+    print "Mensagem enviada com sucesso!";
+}
+else
+{ ?>
+<html>
    <head>
-       <title>Mail - PHP</title>
+       <title></title>
        <style type="text/css">
            #Text1
            {
@@ -51,8 +58,8 @@ if (isset($_POST['txtdest']))
        </style>
    </head>
    <body>
-   <form id="form" name="form" method="POST" action="Mail.php">
-       <h2 align="center" style="text-decoration: underline"> Formulário de Contato (Mail - PHP)</h2>
+   <form id="form" name="form" method="POST" action="Mailer.php">
+       <h2 align="center" style="text-decoration: underline"> Formulário de Contato (Mailer - PHP)</h2>
        <table width="450px" align="center" border="1" cellpadding="5" cellspacing="5">
            <tr>
                <td align="right">
