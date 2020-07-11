@@ -1,8 +1,8 @@
 main {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
-.menu-box-container, .menu-box-center, .style-list, .presents {
+.menu-box-container, .menu-box-center, .style-list, .presents, .style-mini-list {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,13 +10,12 @@ main {
     user-select: none;
 }
 
-.menu-box-container, .menu-box-center, .style-list {
+.menu-box-container, .menu-box-center, .style-list, .style-mini-list {
     flex-direction: column;
 }
 
 .menu-box-container {
     background-color: #2F3443;
-    height: 500px;
 }
 
 .menu-box-center {
@@ -26,14 +25,24 @@ main {
 }
 
 .space-title-menu, .style-list, .presents {
-    margin: 20px 0px;
+    margin: 12px 0px;
     width: 100%;
+}
+
+.style-mini-list {
+    /* border: 2px solid red;
+    border-radius: 5px; */
+    margin: 0px 0px 20px;
 }
 
 .title-menu {
     font-family: 'Oswald', sans-serif;
     font-weight: bold;
     font-size: 17px;
+}
+
+.bottom-space {
+    margin: 5px 0px;
 }
 
 a {

@@ -23,7 +23,7 @@
                     <a href="mysql.php">MySQL</a>
                     <a href="mysql.php">PostgreSQL</a>
                     <a href="">Java</a>
-                    <a href="mail.html">Formulário HTML</a>
+                    <a href="home.html">Formulário HTML</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
 
