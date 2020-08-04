@@ -1,3 +1,3 @@
 <div>
-    <img src="public/img/locaweb.jpg" alt="locaweb.com.br" height="60px">
+    <a href="https://www.locaweb.com.br" target="_blank"><img src="public/img/locaweb.png" alt="locaweb.com.br" height="22px" class="img-logo"></a>
 </div>

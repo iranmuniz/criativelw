@@ -6,7 +6,7 @@
     <?php require_once("src/aside.php"); ?>
         <div class="menu-box-center">
             <div class="space-title-menu">
-                <span class="title-menu">Escolha o modelo de teste</span>
+                <span class="title-menu">Application Test</span>
             </div>
 
             <!-- Aqui fica a lista de testes -->

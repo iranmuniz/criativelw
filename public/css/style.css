@@ -15,7 +15,7 @@ main {
 }
 
 .menu-box-container {
-    background-color: #2F3443;
+    background-color: #2A3440;
 }
 
 .menu-box-center {
@@ -68,5 +68,9 @@ p {
 
 .img-github {
     padding: 0px 10px;
+}
+
+.img-logo {
+    margin: 25px 0px;
 }
 
