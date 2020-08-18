@@ -37,6 +37,7 @@ rápidos no ambiente de Hospedagem (Linux ou Windows) para comprovar o funcionam
 
 * [MySQL](https://breakdance.github.io/breakdance/) - Para apliações mais simples.
 * [PostgreSQL](https://breakdance.github.io/breakdance/) - Para aplicações mais robustas.
+* [SQL Server](https://breakdance.github.io/breakdance/) - Para aplicações mais robustas.
 
 
 ### Como rodar o projeto?
@@ -50,17 +51,17 @@ rápidos no ambiente de Hospedagem (Linux ou Windows) para comprovar o funcionam
 <p>Instalando o PHP</p>
 
 ```sh
-$ php -S localhost:8000
+$ sudo apt-get update
 ```
 
 ```sh
-$ php -S localhost:8000
+$ sudo apt-get install php-soap php-xml php-curl php-opcache php-gd php-sqlite3 php-mbstring
 ```
 
 <p>Instalando o Apache</p>
 
 ```sh
-$ php -S localhost:8000
+$ sudo apt-get install apache2 php libapache2-mod-php
 ```
 
 <p>Rodando a aplicação</p>
