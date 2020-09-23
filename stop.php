@@ -6,14 +6,11 @@
     <?php require_once("src/aside.php"); ?>
         <div class="menu-box-center">
             <div class="space-title-menu">
-                <span class="title-menu">PHP</span>
+                <span class="title-menu">PAGINA EM CONSTRUÇÃO</span>
             </div>
 
             <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
-                    <a href="stop.php">Formulário Mail</a>
-                    <a href="stop.php">Login Cache</a>
-                    <a href="stop.php">Formulário Mailer</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
 

@@ -11,7 +11,7 @@
 
             <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
-                    <a href="">Carregamento de página</a>
+                    <a href="stop.php">Carregamento de página</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
 

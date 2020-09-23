@@ -6,14 +6,15 @@
     <?php require_once("src/aside.php"); ?>
         <div class="menu-box-center">
             <div class="space-title-menu">
-                <span class="title-menu">PHP</span>
+                <span class="title-menu">Content Management System</span>
             </div>
 
             <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
-                    <a href="stop.php">Formulário Mail</a>
-                    <a href="stop.php">Login Cache</a>
-                    <a href="stop.php">Formulário Mailer</a>
+                    <a href="stop.php">WordPress</a>
+                    <a href="stop.php">Drupal</a>
+                    <a href="stop.php">Joomla</a>
+                    <a href="stop.php">ionCube</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
 

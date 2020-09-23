@@ -14,16 +14,14 @@
                     <a style="cursor:pointer;" onclick="bottom()">Javascript</a>
                     <a href="https://www.lwsite.com.br/trials/sign_up" target="_blank">Criador de Sites</a>
                     <a href="home.php">PHP</a>
-                    <a href="">JSON</a>
-                    <a href="application/wordpress/index.php">Wordpress</a>
-                    <a href="application/drupal/index.php">Drupal</a>
-                    <a href="application/joomla/index.php">Joomla</a>
+                    <a href="stop.php">Banco de Dados</a>
+                    <a href="app.php">Content Management System</a>
+                    <a href="stop.php">JSON</a>
                     <a href="home.asp">Asp.net</a>
                     <a href="jquery.php">JQuery</a>
-                    <a href="mysql.php">MySQL</a>
-                    <a href="mysql.php">PostgreSQL</a>
-                    <a href="">Java</a>
-                    <a href="home.html">Formulário HTML</a>
+                    <a href="stop.php">Java</a>
+                    <a href="stop.php">SSL</a>
+                    <a href="stop.php">Themes</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
 
