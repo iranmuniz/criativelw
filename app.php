@@ -11,10 +11,17 @@
 
             <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
-                    <a href="stop.php">WordPress</a>
-                    <a href="stop.php">Drupal</a>
-                    <a href="stop.php">Joomla</a>
-                    <a href="stop.php">ionCube</a>
+                    <div class="space-sub-title">
+                        <span class="sub-title">Install</span>
+                    </div>
+                    <a href="pag_const.php">WordPress</a>
+                    <a href="pag_const.php">Drupal</a>
+                    <a href="pag_const.php">Joomla</a>
+                    <div class="space-sub-title">
+                        <span class="sub-title">WordPress Organization</span>
+                    </div>
+                    <a href="pag_const.php">wordpress.org</a>
+                    <a href="pag_const.php">wordpress.com</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
 

@@ -11,9 +11,9 @@
 
             <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
-                    <a href="stop.php">Formulário Mail</a>
-                    <a href="stop.php">Login Cache</a>
-                    <a href="stop.php">Formulário Mailer</a>
+                    <a href="pag_const.php">Formulário Mail</a>
+                    <a href="pag_const.php">Login Cache</a>
+                    <a href="pag_const.php">Formulário Mailer</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
 
