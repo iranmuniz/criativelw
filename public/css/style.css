@@ -1,8 +1,13 @@
 main {
     margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
 }
 
-.menu-box-container, .menu-box-center, .style-list, .presents, .style-mini-list, .pag-background-color {
+.menu-box-container, .menu-box-center, .style-list, .presents, .style-mini-list {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,15 +15,11 @@ main {
     user-select: none;
 }
 
-.menu-box-container, .menu-box-center, .style-list, .style-mini-list, .pag-background-color {
+.menu-box-container, .menu-box-center, .style-list, .style-mini-list {
     flex-direction: column;
 }
 
 .menu-box-container {
-    background-color: #2A3440;
-}
-
-.pag-background-color {
     background-color: #263645;
     color: white;
 }
@@ -27,6 +28,8 @@ main {
     background-color: white;
     width: 350px;
     box-shadow : 0 0 0 1px rgba(0,0,0,.15),0 2px 3px rgba(0,0,0,.2);
+    color: black;
+    margin: 0px 0px 25px 0px;
 }
 
 .space-title-menu, .style-list, .presents {
@@ -88,4 +91,16 @@ p {
 
 .img-logo {
     margin: 25px 0px;
+}
+
+.space-span {
+    margin: 20px 0px;
+    width: 80%;
+    background-color: rgba(216, 222, 240, 0.1);
+    border: red;
+    border-radius: 1rem;
+}
+
+.border-black {
+    padding: 30px 50px;
 }

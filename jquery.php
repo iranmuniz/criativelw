@@ -11,11 +11,11 @@
 
             <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
-                    <a href="pag_const.php">Carregamento de página</a>
+                    <a href="404.php">Carregamento de página</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
 
-            <?php require_once("src/details.php"); ?>
+            <?php require_once("src/footer.php"); ?>
         </div>
     </main>
 </body>

@@ -11,13 +11,13 @@
 
             <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
-                    <a href="pag_const.php">Formulário Mail</a>
-                    <a href="pag_const.php">Login Cache</a>
-                    <a href="pag_const.php">Formulário Mailer</a>
+                    <a href="404.php">Formulário Mail</a>
+                    <a href="404.php">Navegador Cache</a>
+                    <a href="404.php">Formulário Mailer</a>
                 </div>
             <!-- // Aqui fica a lista de testes -->
 
-            <?php require_once("src/details.php"); ?>
+            <?php require_once("src/footer.php"); ?>
         </div>
     </main>
     <script src="public/js/script.js"></script>
