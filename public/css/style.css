@@ -98,7 +98,12 @@ p {
     width: 80%;
     background-color: rgba(216, 222, 240, 0.1);
     border: red;
-    border-radius: 1rem;
+    border-radius: 3rem;
+}
+
+.color-bar{
+    color: red;
+    font-size: 18px;
 }
 
 .border-black {

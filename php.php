@@ -8,15 +8,16 @@
             <div class="space-title-menu">
                 <span class="title-menu">PHP</span>
             </div>
-
-            <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
+                    <a href="https://ajuda.locaweb.com.br/wiki/modulos-php-hospedagem-de-sites/" target="_blank">Módulos do PHP</a>
                     <a href="404.php">Formulário Mail</a>
                     <a href="404.php">Navegador Cache</a>
                     <a href="404.php">Formulário Mailer</a>
+                    <a href="404.php">.htaccess</a>
+                    <a href="404.php">php.ini</a>
+                    <a href="https://ajuda.locaweb.com.br/wiki/ioncube-hospedagem-de-sites/" target="_blank">ionCube</a>
+                    <a href="more.php"><b><i>Mais Locaweb</i></b></a>
                 </div>
-            <!-- // Aqui fica a lista de testes -->
-
             <?php require_once("src/footer.php"); ?>
         </div>
     </main>
