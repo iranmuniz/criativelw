@@ -12,7 +12,7 @@
                     <a href="https://ajuda.locaweb.com.br/wiki/modulos-php-hospedagem-de-sites/" target="_blank">Módulos do PHP</a>
                     <a href="404.php">Formulário Mail</a>
                     <a href="404.php">Navegador Cache</a>
-                    <a href="404.php">Formulário Mailer</a>
+                    <a href="form/phpmailer.php">Formulário Mailer</a>
                     <a href="404.php">.htaccess</a>
                     <a href="404.php">php.ini</a>
                     <a href="https://ajuda.locaweb.com.br/wiki/ioncube-hospedagem-de-sites/" target="_blank">ionCube</a>

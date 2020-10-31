@@ -1,0 +1,79 @@
+html, body {
+    height: 0%;
+    background-color: #263645 !important;
+    color: white;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+main {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.img-logo {
+    margin: 25px 0px;
+}
+
+.space-center{
+    padding: 50px 65px;
+}
+
+.presents {
+    flex-direction: row;
+    font-style: italic;
+}
+
+.ls-main .container-fluid {
+    min-height: 0% !important;
+}
+
+.title-form {
+    padding: 0px 0px 50px;
+    text-align: center;
+}
+
+fieldset{
+    display: flex;
+    text-align: left;
+    background-color: white !important;
+}
+
+.ls-btn-danger{ 
+    background: #db6664 !important;
+    border-color: #df7775 !important;
+    color: white !important;
+}
+
+.ls-btn-danger:hover {
+    background: #ec8785 !important;
+    border-color: #df7775 !important;
+    color: white !important;
+}
+
+.ls-btn {
+    background: #217508 !important;
+    border-color: #6fbe3a !important;
+    color: white !important;
+}
+
+.ls-btn:hover {
+    background: #62b43b !important;
+    border-color: #5fb44e !important;
+    color: white !important;
+}
+
+.ls-textarea-autoresize {
+    border: rgb(90, 89, 89) !important;
+    border-style: solid !important;
+    border-width: 1px !important;
+}
