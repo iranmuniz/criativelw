@@ -10,7 +10,9 @@
             </div>
                 <div class="style-list">
                     <a href="https://ajuda.locaweb.com.br/wiki/modulos-php-hospedagem-de-sites/" target="_blank">Módulos do PHP</a>
-                    <a href="php/phpmailer.php">Formulário Mailer</a>
+                    <a href="php/Mail.php">Formulário Mail</a>
+                    <a href="php/Mailer.php">Formulário Mailer</a>
+                    <a href="php/email.php">Formulário Mailer - Com debug!</a>
                     <a href="404.php">Session</a>
                     <a href="404.php">Modelos de Formulários</a>
                     <a href="404.php">.htaccess</a>

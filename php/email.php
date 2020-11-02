@@ -78,6 +78,7 @@
             </fieldset>
         </form>
     </main>
+    <?php require_once('javascript.php'); ?>
 </body>
-<?php require_once('src/footer.php'); ?>
+    <?php require_once('src/footer.php'); ?>
 </html>
