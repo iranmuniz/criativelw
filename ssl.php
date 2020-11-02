@@ -15,7 +15,7 @@
                     <a href="https://www.locaweb.com.br/ssl-locaweb/" target="_blank">Planos SSL Locaweb</a>
                     <a href="https://ajuda.locaweb.com.br/wiki/como-emitir-certificados-alpha-e-wildcard-ssl-locaweb/" target="_blank">Instalação SSL Locaweb</a>
                     <a href="https://csrgenerator.com/" target="_blank">Gerar chave .csr e .key - CSR Generator</a>
-                    <a href="https://ajuda.locaweb.com.br/wiki/ssl/" target="_blank">Gerar chave .csr, .key, .ca, .crt/cer</a>
+                    <a href="https://ajuda.locaweb.com.br/wiki/ssl/" target="_blank">Gerar chave .csr, .key, .ca, .crt/.cer</a>
                     <a href="https://www.sslshopper.com/ssl-checker.html" target="_blank">Validador - SSL Checker</a>
                     <a href="https://ajuda.locaweb.com.br/wiki/paginas-ssl-com-itens-nao-seguros/" target="_blank">Páginas SSL não seguros</a>
                     <a href="https://ajuda.locaweb.com.br/wiki/como-forcar-o-https-alterar-informacoes-apos-instalacao/" target="_blank">Forçar HTTPS</a>

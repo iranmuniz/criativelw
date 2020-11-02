@@ -1,7 +1,11 @@
 html, body {
     height: 0%;
-    background-color: #263645 !important;
+    background-image: url(../img/wall-loca.png) !important;
     color: white;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 body {
@@ -20,12 +24,9 @@ main {
     flex-direction: column;
 }
 
-.img-logo {
-    margin: 25px 0px;
-}
-
 .space-center{
     padding: 50px 65px;
+    border-style: solid;
 }
 
 .presents {
@@ -70,10 +71,4 @@ fieldset{
     background: #62b43b !important;
     border-color: #5fb44e !important;
     color: white !important;
-}
-
-.ls-textarea-autoresize {
-    border: rgb(90, 89, 89) !important;
-    border-style: solid !important;
-    border-width: 1px !important;
 }

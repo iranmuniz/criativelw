@@ -6,6 +6,6 @@
     <link rel="stylesheet" href="public/css/style.css">
     <!-- <meta name="description" content="Insira aqui a descrição da página."> -->
     <link href="http://assets.locaweb.com.br/locastyle/3.10.1/stylesheets/locastyle.css" rel="stylesheet" type="text/css">
-    <link rel="icon" sizes="192x192" href="/locawebstyle/assets/images/ico-boilerplate.png">
-    <link rel="apple-touch-icon" href="/locawebstyle/assets/images/ico-boilerplate.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="public/img/icon.png">
+    <!-- <link rel="apple-touch-icon" href="/locawebstyle/assets/images/ico-boilerplate.png"> -->
 </head>
