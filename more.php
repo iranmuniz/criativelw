@@ -13,7 +13,16 @@
                     <a href="https://ajuda.locaweb.com.br/" target="_blank">Ajuda Locaweb</a>
                     <a href="https://www.lwsite.com.br/trials/sign_up" target="_blank">Criador de Sites</a>
                     <a href="https://blog.locaweb.com.br/" target="_blank">Blog Locaweb</a>
-                    <a href="404.php">Tray</a>
+                    <a href="https://blog.locaweb.com.br/" target="_blank">Locaweb</a>
+                    <a href="https://pro.locaweb.com.br/" target="_blank">Locaweb Pro</a>
+                    <a href="https://www.nextios.com.br/" target="_blank">Nextios</a>
+                    <a href="https://www.tray.com.br" target="_blank">Tray</a>
+                    <a href="https://www.yapay.com.br" target="_blank">Yapay</a>
+                    <a href="https://allin.com.br" target="_blank">Allin Marketing Cloud</a>
+                    <a href="https://etus.com.br/" target="_blank">Etus</a>
+                    <a href="https://site.deliverydireto.com.br/" target="_blank">Delivery Direto</a>
+                    <a href="https://socialminer.com" target="_blank">Social Miner</a>
+                    <a href="https://eventos.locaweb.com.br" target="_blank">Eventos</a>
                 </div>
             <?php require_once("src/footer.php"); ?>
         </div>

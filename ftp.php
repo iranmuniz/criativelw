@@ -11,6 +11,7 @@
                 <div class="style-list">
                     <a href="404.php">Filezilla</a>
                     <a href="404.php">Cyberduck</a>
+                    <a href="https://ajuda.locaweb.com.br/wiki/iis-remote-manager/" target="_blank">IIS Remote Administration</a>
                     <a href="https://webftp.locaweb.com.br/" target="_blank">AjaXplorer</a>
                     <a href="more.php"><b><i>Mais Locaweb</i></b></a>
                 </div>

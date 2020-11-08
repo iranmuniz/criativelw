@@ -17,6 +17,7 @@
                     <a href="404.php">Modelos de Formulários</a>
                     <a href="404.php">.htaccess</a>
                     <a href="404.php">php.ini</a>
+                    <a href="php/info.php">Versão do PHP</a>
                     <a href="php/upload.php">Upload de Arquivos</a>
                     <a href="https://ajuda.locaweb.com.br/wiki/ioncube-hospedagem-de-sites/" target="_blank">ionCube</a>
                     <a href="more.php"><b><i>Mais Locaweb</i></b></a>

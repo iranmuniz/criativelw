@@ -8,13 +8,10 @@
             <div class="space-title-menu">
                 <span class="title-menu">jQuery</span>
             </div>
-
-            <!-- Aqui fica a lista de testes -->
                 <div class="style-list">
                     <a href="404.php">Carregamento de página</a>
+                    <a href="more.php"><b><i>Mais Locaweb</i></b></a>
                 </div>
-            <!-- // Aqui fica a lista de testes -->
-
             <?php require_once("src/footer.php"); ?>
         </div>
     </main>

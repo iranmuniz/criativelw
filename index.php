@@ -17,9 +17,9 @@
                     <a href="404.php">JSON</a>
                     <a href="404.php">Asp.net</a>
                     <a href="jquery.php">JQuery</a>
-                    <a href="404.php">Java</a>
                     <a href="ssl.php">SSL</a>
                     <a href="404.php">Temas</a>
+                    <a href="https://goodbye.host/" target="_blank">Migração</a>
                     <a href="creator.php">Criadores de Sites</a>
                     <a href="ftp.php">FTP</a>
                     <a href="more.php"><b><i>Mais Locaweb</i></b></a>
