@@ -72,3 +72,20 @@ fieldset{
     border-color: #5fb44e !important;
     color: white !important;
 }
+
+.list-block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    padding: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a:hover {
+    color: red;
+}

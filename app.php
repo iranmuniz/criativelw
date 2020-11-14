@@ -10,8 +10,8 @@
             </div>
                 <div class="style-list">
                     <a href="wp.php">WordPress</a>
-                    <a href="404.php">Drupal</a>
-                    <a href="404.php">Joomla</a>
+                    <a href="https://www.drupal.org/" target="_blank">Drupal</a>
+                    <a href="https://www.joomla.org/" target="_blank">Joomla</a>
                     <a href="https://www.prestashop.com/pt" target="_blank">Prestashop</a>
                     <a href="https://flextype.org/en" target="_blank">Flextype</a>
                     <a href="https://getgrav.org/" target="_blank">Grav</a>

@@ -6,7 +6,7 @@
     <?php require_once("src/aside.php"); ?>
         <div class="menu-box-center">
             <div class="space-title-menu">
-                <span class="title-menu">Criadores de Sites</span>
+                <span class="title-menu">Criadores de Sites e Loja Virtual</span>
             </div>
                 <div class="style-list">
                     <a href="404.php">Tray</a>
@@ -14,6 +14,7 @@
                     <a href="404.php">Wix</a>
                     <a href="404.php">Klickpages</a>
                     <a href="404.php">VTex</a>
+                    <a href="404.php">Loja Integrada</a>
                     <a href="more.php"><b><i>Mais Locaweb</i></b></a>
                 </div>
             <?php require_once("src/footer.php"); ?>

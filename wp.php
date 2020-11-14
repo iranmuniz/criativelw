@@ -9,14 +9,15 @@
                 <span class="title-menu">WordPress</span>
             </div>
             <div class="style-list">
+                <a href="php/wp.php">Ferramentas</a>
                 <a href="404.php">Forçar HTTPS</a>
                 <a href="404.php">Desfazer HTTPS</a>
                 <a href="404.php">Versão do PHP</a>
                 <a href="404.php">Diretivas do PHP</a>
                 <a href="404.php">Instalação de formulário</a>
                 <a href="404.php">Recuperação de acesso</a>
-                <a href="404.php">WordPress.Org</a>
-                <a href="404.php">WordPress.Com</a>
+                <a href="404.php">Migração</a>
+                <a href="https://import.wp-migration.com/" target="_blank">All-in-One WP Migration</a>
                 <a href="https://br.wordpress.org/plugins/really-simple-ssl/" target="_blank">Really Simple SSL no WordPress</a>
                 <a href="more.php"><b><i>Mais Locaweb</i></b></a>
             </div>

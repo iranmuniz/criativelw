@@ -13,14 +13,15 @@
                     <a href="php.php">PHP</a>
                     <a href="404.php">HTML e CSS</a>
                     <a href="db.php">Banco de Dados</a>
-                    <a href="app.php">Content Management System</a>
+                    <a href="app.php">CMS | Content Management System</a>
                     <a href="404.php">JSON</a>
-                    <a href="404.php">Asp.net</a>
+                    <a href="404.php">Asp.net | Windows</a>
                     <a href="jquery.php">JQuery</a>
                     <a href="ssl.php">SSL</a>
                     <a href="404.php">Temas</a>
                     <a href="https://goodbye.host/" target="_blank">Migração</a>
-                    <a href="creator.php">Criadores de Sites</a>
+                    <a href="creator.php">Criadores de Sites | Loja Virtual</a>
+                    <a href="tester.php">Desempenho do site</a>
                     <a href="ftp.php">FTP</a>
                     <a href="more.php"><b><i>Mais Locaweb</i></b></a>
                 </div>
