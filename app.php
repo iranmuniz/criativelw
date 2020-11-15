@@ -21,6 +21,7 @@
                     <a href="https://mobirise.com/pt/" target="_blank">Mobirise</a>
                     <a href="https://www.layoutit.com/" target="_blank">Layoutit</a>
                     <a href="https://pingendo.com/" target="_blank">Pingendo</a>
+                    <a href="https://www.odoo.com/pt_BR/page/about-us#" target="_blank">Odoo</a>
                     <a href="https://glpi-project.org/" target="_blank">GLPI (HelpDesk)</a>
                     <a href="more.php"><b><i>Mais Locaweb</i></b></a>
                 </div>
