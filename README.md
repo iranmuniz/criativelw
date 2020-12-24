@@ -1,4 +1,4 @@
-# Tester - CriativeLW
+# CriativeLW
 <p align="justify">Este projeto tem como ênfase uma aplicação de testes em ambientes de hospedagem de sites, sendo diversas linguagens de programação
 e funcionalidades presentes em um único projeto.</p>
 
@@ -24,20 +24,22 @@ rápidos no ambiente de Hospedagem (Linux ou Windows) para comprovar o funcionam
 
 <p>CRM</p>
 
-* [WordPress](https://breakdance.github.io/breakdance/) - Maior CRM da atualidade.
-* [Drupal](https://breakdance.github.io/breakdance/) - Teste de instalação.
-* [Joomla](https://breakdance.github.io/breakdance/) - Teste de instalação.
+* WordPress;
+* Drupal;
+* Joomla;
+* entre outros...
 
 <p>Liguagens</p>
 
-* [Javascript](https://breakdance.github.io/breakdance/) - Animações e efeitos.
-* [HTML](https://breakdance.github.io/breakdance/) - Teste envolvendo formulário e padrões de estruturação.
+* Javascript;
+* HTML;
+* PHP.
 
 <p>Banco de dados</p>
 
-* [MySQL](https://breakdance.github.io/breakdance/) - Para apliações mais simples.
-* [PostgreSQL](https://breakdance.github.io/breakdance/) - Para aplicações mais robustas.
-* [SQL Server](https://breakdance.github.io/breakdance/) - Para aplicações mais robustas.
+* MySQL;
+* PostgreSQL;
+* SQL Server.
 
 
 ### Como rodar o projeto?
@@ -78,10 +80,15 @@ $ php -S localhost:8000
 
 <p>Instale o MAMPP</p>
 
+### Recomendação
+
+<p>Rode a aplicação direto na hospedagem.</p>
+<p>Essa aplicação foi criada para fins de teste em ambiente de hospedagem.</p>
+
 ### Pensando no front-end
 
-<p>O front-end foi pensado na aparência da página de login de [Webmail](https://webmail-seguro.com.br/) Locaweb. </p>
-<img src="https://i.imgur.com/x4abDHP.png">
+* [Webmail Locaweb](https://webmail-seguro.com.br/)<p>O front-end foi pensado na aparência da página de login da Locaweb.</p>
+<img src="https://i.imgur.com/Szya1z5.png">
 
 
 
